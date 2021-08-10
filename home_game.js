@@ -1,7 +1,6 @@
 
 // Get the element to build the game at
 const container = document.querySelector('#connectFour');
-console.log(container);
 
 // This variable tracks whether or not the user is allowed to play their move
 var allowClick = false;
